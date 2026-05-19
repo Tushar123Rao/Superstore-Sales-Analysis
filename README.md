@@ -3,6 +3,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-2.0-green)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0.12-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Tableau](https://img.shields.io/badge/Tableau-Public-blue)
 
 # Project Overview
 This project performs a complete **Exploratory Data Analysis (EDA)** on the 
@@ -48,8 +49,18 @@ Order Date, Ship Date
 - Discount vs Profit Analysis (Scatter Plot)
 - Top 10 Best Selling Products (Horizontal Bar Chart)
 
-# How to Run
+# Interactive Tableau Dashboard
+🔗 [Click here to view Live Dashboard]
+(https://public.tableau.com/views/Superstore-Sales-Dashboard/Dashboard1)
+-> Dashboard Preview includes:
+-  Sales by Category
+-  Profit by Region
+-  Sales by Sub-Category
+-  Yearly Sales Trend
 
+>  Click on any chart in the dashboard to 
+> filter other charts automatically!
+# How to Run
 1. Clone the repository
 2. Install required libraries
 3. Open Jupyter Notebook
